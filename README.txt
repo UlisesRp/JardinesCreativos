@@ -1,16 +1,11 @@
-JARDINES CREATIVOS — SITIO WEB DE PRESENTACIÓN
+JARDINES CREATIVOS — VERSIÓN FINAL CON ICONOS
 
-Archivos:
-- index.html
-- styles.css
-- app.js
-- assets/ (logo e imágenes proporcionadas por el cliente)
-
-Antes de publicar:
-1. Abre app.js.
-2. Cambia WHATSAPP_NUMBER por el número real.
-3. Revisa textos, zona de cobertura y datos de contacto.
-4. Sube toda la carpeta conservando la estructura.
-
-El logo completo se usa en encabezado y pie de página.
-Las fotografías incluidas son las proporcionadas para este proyecto.
+Cambios realizados:
+- Diseño de jardines: planta.
+- Mantenimiento integral: regadera.
+- Paisajismo: piedras zen.
+- Jardinería: carretilla.
+- Los cuatro iconos tienen fondo blanco y ocupan correctamente su espacio.
+- Los botones principales permanecen solo con texto.
+- El botón flotante conserva el logotipo de WhatsApp.
+- WhatsApp configurado: +52 55 2381 9777.
