@@ -208,7 +208,7 @@ p { line-height: 1.75; }
 .section-heading.centered p { max-width: 670px; margin: 22px auto 0; color: var(--muted); }
 
 .services { background: #fff; }
-.service-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; }
+.service-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 18px; }
 .service-card {
   min-height: 335px;
   padding: 28px 24px 30px;

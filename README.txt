@@ -1,11 +1,8 @@
-JARDINES CREATIVOS — VERSIÓN FINAL CON ICONOS
+JARDINES CREATIVOS — NUEVO SERVICIO
 
-Cambios realizados:
-- Diseño de jardines: planta.
-- Mantenimiento integral: regadera.
-- Paisajismo: piedras zen.
-- Jardinería: carretilla.
-- Los cuatro iconos tienen fondo blanco y ocupan correctamente su espacio.
-- Los botones principales permanecen solo con texto.
-- El botón flotante conserva el logotipo de WhatsApp.
-- WhatsApp configurado: +52 55 2381 9777.
+Cambios:
+- Se conservaron los cuatro servicios e iconos existentes.
+- Se agregó una quinta tarjeta: Cascadas y riachuelos.
+- Se agregó su icono y descripción.
+- La cuadrícula muestra cinco tarjetas en escritorio y conserva el diseño responsive.
+- CSS y HTML actualizados; JavaScript sin cambios.
