@@ -116,7 +116,7 @@ p { line-height: 1.75; }
   min-height: calc(100vh - 132px);
   display: flex;
   color: #fff;
-  background: url("assets/hero.webp") center 56% / cover no-repeat;
+  background: url("assets/heron.jpeg") center 56% / cover no-repeat;
 }
 .hero-overlay {
   position: absolute;
