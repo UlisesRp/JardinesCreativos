@@ -420,6 +420,7 @@ p { line-height: 1.75; }
 }
 
 .floating-facebook,
+.floating-instagram,
 .floating-whatsapp {
   position: fixed;
   right: 18px;
@@ -434,18 +435,27 @@ p { line-height: 1.75; }
 }
 
 .floating-facebook:hover,
+.floating-instagram:hover,
 .floating-whatsapp:hover {
   transform: scale(1.08);
   box-shadow: 0 12px 28px rgba(0, 0, 0, .28);
 }
 
 .floating-facebook {
-  bottom: 82px;
+  bottom: 144px;
   color: #ffffff;
   background: #1877f2;
 }
 
-.floating-facebook svg {
+.floating-instagram {
+  bottom: 82px;
+  color: #ffffff;
+  background:
+    radial-gradient(circle at 30% 107%, #fdf497 0 5%, #fdf497 5% 9%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+}
+
+.floating-facebook svg,
+.floating-instagram svg {
   width: 34px;
   height: 34px;
   fill: currentColor;
@@ -578,6 +588,7 @@ p { line-height: 1.75; }
 
 @media (max-width: 560px) {
   .floating-facebook,
+  .floating-instagram,
   .floating-whatsapp {
     right: 14px;
     width: 48px;
@@ -585,10 +596,15 @@ p { line-height: 1.75; }
   }
 
   .floating-facebook {
+    bottom: 134px;
+  }
+
+  .floating-instagram {
     bottom: 74px;
   }
 
-  .floating-facebook svg {
+  .floating-facebook svg,
+  .floating-instagram svg {
     width: 31px;
     height: 31px;
   }
