@@ -1,8 +1,9 @@
-JARDINES CREATIVOS — NUEVO SERVICIO
+JARDINES CREATIVOS — BOTONES FLOTANTES AJUSTADOS
 
-Cambios:
-- Se conservaron los cuatro servicios e iconos existentes.
-- Se agregó una quinta tarjeta: Cascadas y riachuelos.
-- Se agregó su icono y descripción.
-- La cuadrícula muestra cinco tarjetas en escritorio y conserva el diseño responsive.
-- CSS y HTML actualizados; JavaScript sin cambios.
+Cambios realizados:
+- Botón de Facebook reducido.
+- Botón de WhatsApp reducido.
+- Facebook usa su azul oficial #1877F2.
+- WhatsApp conserva su verde oficial #25D366.
+- Se ajustaron tamaños y posiciones para escritorio y móvil.
+- HTML y JavaScript se conservaron sin cambios.
